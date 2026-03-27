@@ -1,9 +1,19 @@
-﻿Console.BackgroundColor = ConsoleColor.Black;
+﻿
 Console.BackgroundColor = ConsoleColor.White;
-Console.Write("SAN");
+Console.Write("S");
 
-Console.BackgroundColor = ConsoleColor.White;
 Console.BackgroundColor = ConsoleColor.Black;
-Console.Write("TOS");
+Console.Write("A");
 
+Console.BackgroundColor = ConsoleColor.White;
+Console.Write("N");
+
+Console.BackgroundColor = ConsoleColor.Black;
+Console.Write("T");
+
+Console.BackgroundColor = ConsoleColor.White;
+Console.Write("O");
+
+Console.BackgroundColor = ConsoleColor.Black;
+Console.Write("S");
 Console.ResetColor();
